@@ -58,7 +58,7 @@ body {
   grid-template-columns: 1.1fr 0.9fr;
   gap: 56px;
   align-items: center;
-  padding: 56px 0 88px;
+  padding: 123px 0 88px;
 }
 .eyebrow {
   font-family: var(--font-mono);
